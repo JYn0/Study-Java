@@ -23,4 +23,3 @@ for(int[] tmp : aaa){
 		sum += i;
 }
 ```
-
