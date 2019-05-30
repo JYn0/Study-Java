@@ -21,7 +21,6 @@
 * 상수와 리터럴(constant & literal)
 
 
-
 * 화면에서 입력받기 - Scanner
 
   Scanner sc = new Scanner(System.in);
